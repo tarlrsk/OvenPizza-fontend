@@ -1,0 +1,8 @@
+.setBG {
+  background-image: url("../images/track_background.jpg");
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}

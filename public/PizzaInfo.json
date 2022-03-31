@@ -1,0 +1,47 @@
+[
+    {   
+        "code": 1,
+        "name": "Beacon",
+        "price": 399
+    },
+    {
+        "code": 2,
+        "name": "Shrimp Cocktail",
+        "price": 399
+    },
+    {
+        "code": 3,
+        "name": "Chicken Trio",
+        "price": 399
+    },
+    {
+        "code": 4,
+        "name": "Spicy Seafood",
+        "price": 399
+    },
+    {
+        "code": 5,
+        "name": "Hawaiian",
+        "price": 399
+    },
+    {
+        "code": 6,
+        "name": "Seafood Cocktail",
+        "price": 399
+    },
+    {
+        "code": 7,
+        "name": "Pepperoni",
+        "price": 299
+    },
+    {
+        "code": 8,
+        "name": "Double Cheese",
+        "price": 299
+    },
+    {
+        "code": 9,
+        "name": "Chicken Spicy",
+        "price": 299
+    }
+]
